@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I'm Suyog Jamdar - A B.E. Information Technology graduate from Amravati, Maharashtra, India.<br> Proficient in Core Java - OOP, Collections Framework, Multithreading, and JDBC.<br> Experienced with Python, Flask, and Machine Learning (scikit-learn, pandas, NumPy) through academic projects.<br> Good understanding of SQL, RDBMS concepts, Joins, and query optimization.<br> Familiar with AWS fundamentals (EC2, S3), REST APIs, Git.<br> Built an Employee Churn Prediction System - an ML-powered Flask web app to predict employee attrition.<br> Currently seeking entry-level Software Engineer / Java Developer opportunities.<br> 
+ Hi, I'm Suyog Jamdar - a B.E. Information Technology graduate from Amravati, Maharashtra, India.<br> Proficient in Core Java - OOP, Collections Framework, Multithreading, and JDBC.<br> Experienced with Python, Flask, and Machine Learning (scikit-learn, pandas, NumPy) through academic projects.<br> Good understanding of SQL, RDBMS concepts, Joins, and query optimization.<br> Familiar with AWS fundamentals (EC2, S3), REST APIs, Git.<br> Built an Employee Churn Prediction System - an ML-powered Flask web app to predict employee attrition.<br> Currently seeking entry-level Software Engineer / Java Developer opportunities.<br> 
 
 
 ## 🌐 Socials:
