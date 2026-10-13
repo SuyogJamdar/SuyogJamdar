@@ -101,6 +101,23 @@ A machine learning-based system that identifies employees likely to leave an org
 
 </div>
 
+
+</div>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/SuyogJamdar/SuyogJamdar/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/SuyogJamdar/SuyogJamdar/output/github-snake.svg"
+         alt="Animated snake moving through GitHub contribution squares"
+         width="100%">
+  </picture>
+</div>
+
 ---
 
 ## 📫 Let's Connect
