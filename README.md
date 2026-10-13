@@ -124,3 +124,26 @@ Know of an opportunity that matches my skill set? I'd love to hear from you!
 <sub>☾ &nbsp; May your code compile and your nights stay peaceful. &nbsp; ☽</sub>
 
 </div>
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:080B1A,30:242052,65:334C70,100:36B7B0&animation=twinkling" width="100%" alt="Animated midnight purple and teal footer" />
+
+<a href="https://github.com/SuyogJamdar">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=B8B5FF&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Thanks+for+visiting+my+universe;%F0%9F%8C%99+Dream+in+pixels.+Build+in+code.;%F0%9F%92%BB+One+commit+closer+to+greatness;%E2%9C%A8+See+you+in+the+next+commit!" alt="Animated coding sign-off" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20BUILDING-242052?style=for-the-badge&logo=github&logoColor=B8B5FF&labelColor=080B1A" alt="Always building" />
+
+<br/><br/>
+
+`☾` &nbsp; **KEEP BUILDING · KEEP EXPLORING · STAY CURIOUS** &nbsp; `☽`
+
+<sub>Crafted under the moonlight, powered by imagination. ✦</sub>
+
+<br/>
+
+</div>
