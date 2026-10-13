@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./night-coding-pixel-banner.gif" width="100%" alt="Animated pixel-art night coding room" />
+</p>
 <div align="center">
 
 <img src="assets/night-coding-pixel-banner.gif" width="100%" alt="Animated pixel-art late-night coding room with an open moonlit window and gently moving curtains"/>
