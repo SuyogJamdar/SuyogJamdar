@@ -130,26 +130,15 @@ Know of an opportunity that matches my skill set? I'd love to hear from you!
 [![Connect on LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-82d9c7?style=flat-square)](https://www.linkedin.com/in/suyog-jamdar)
 
 
-<!-- 🌙 MIDNIGHT PIXEL-ART ENDING -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,100:29345a&height=70&section=footer" width="100%" alt="footer"/>
 
+</div>
 <div align="center">
 
-<img src="./moonlit-pixel-footer.gif"
-     width="100%"
-     alt="Animated moonlit pixel-art coding room footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:25234a,100:375b69&height=120&section=footer&animation=twinkling" width="100%" alt="Animated midnight blue and purple footer" />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=3500&pause=1000&color=AAB8FF&center=true&vCenter=true&width=500&lines=%E2%98%BE+Thanks+for+visiting+my+little+corner+of+GitHub;%F0%9F%8C%99+Keep+learning.+Keep+building.;%E2%9C%A8+See+you+in+the+next+commit!" alt="Animated moonlit sign-off" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=AAB8FF&center=true&vCenter=true&width=600&lines=%E2%98%BE+Thanks+for+visiting+my+universe;%F0%9F%92%BB+Dream+in+pixels.+Build+in+code.;%F0%9F%90%8D+Every+contribution+tells+a+story;%E2%9C%A8+See+you+in+the+next+commit!" 
-     alt="Animated coding sign-off" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/☾_KEEP_BUILDING_☽-171638?style=for-the-badge&labelColor=080B1A"
-     alt="Keep building" />
-
-<br/><br/>
-
-<sub>✦ Crafted under the moonlight · Powered by curiosity ✦</sub>
+<sub>☾ &nbsp; May your code compile and your nights stay peaceful. &nbsp; ☽</sub>
 
 </div>
