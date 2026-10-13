@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a4f57,100:22262c&height=180&section=header&text=Suyog%20Jamdar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Entry-Level%20Software%20Engineer%20%7C%20Java%20Developer&descAlignY=60&descSize=16" width="100%" alt="Suyog Jamdar banner"/>
+<img src="assets/night-coding-pixel-banner.gif" width="100%" alt="Animated pixel-art late-night coding room with an open moonlit window and gently moving curtains"/>
 
 <a href="https://github.com/SuyogJamdar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7B88FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Suyog+%F0%9F%91%8B;B.E.+Information+Technology+Graduate;Java+%7C+OOP+%7C+SQL+%7C+Python;Open+to+entry-level+Software+Engineer+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=AAB8FF&center=true&vCenter=true&width=540&lines=Hi+there!+I'm+Suyog+%F0%9F%91%8B;B.E.+Information+Technology+Graduate;Java+%7C+OOP+%7C+SQL+%7C+Python;Open+to+entry-level+Software+Engineer+roles" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-jamdar.suyog%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=jamdar.suyog@gmail.com&su=Opportunity%20for%20Suyog%20Jamdar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-suyog--jamdar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyog-jamdar)
-[![GitHub](https://img.shields.io/badge/GitHub-SuyogJamdar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuyogJamdar)
+[![Email](https://img.shields.io/badge/Email-jamdar.suyog%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=jamdar.suyog@gmail.com&su=Opportunity%20for%20Suyog%20Jamdar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-suyog--jamdar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyog-jamdar)
+[![GitHub](https://img.shields.io/badge/GitHub-SuyogJamdar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SuyogJamdar)
 
 </div>
 
@@ -72,12 +72,12 @@ A machine learning-based system that identifies employees likely to leave an org
 
 ## 🤝 Soft Skills
 
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-7b88ff?style=flat-square)
-![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-2fd8b0?style=flat-square)
-![Agile Teamwork](https://img.shields.io/badge/Agile%20Teamwork-7b88ff?style=flat-square)
-![Time Management](https://img.shields.io/badge/Time%20Management-2fd8b0?style=flat-square)
-![Communication](https://img.shields.io/badge/Communication-7b88ff?style=flat-square)
-![Debugging](https://img.shields.io/badge/Debugging-2fd8b0?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-aab8ff?style=flat-square)
+![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-82d9c7?style=flat-square)
+![Agile Teamwork](https://img.shields.io/badge/Agile%20Teamwork-aab8ff?style=flat-square)
+![Time Management](https://img.shields.io/badge/Time%20Management-82d9c7?style=flat-square)
+![Communication](https://img.shields.io/badge/Communication-aab8ff?style=flat-square)
+![Debugging](https://img.shields.io/badge/Debugging-82d9c7?style=flat-square)
 
 ---
 
@@ -85,16 +85,16 @@ A machine learning-based system that identifies employees likely to leave an org
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SuyogJamdar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=30,0d0d10,12143a&title_color=7b88ff&icon_color=2fd8b0&text_color=e6e8ff&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyogJamdar&layout=compact&theme=tokyonight&hide_border=true&bg_color=30,0d0d10,12143a&title_color=7b88ff&text_color=e6e8ff&card_width=320" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SuyogJamdar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=30,0d0d10,12143a&title_color=aab8ff&icon_color=82d9c7&text_color=e6e8ff&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyogJamdar&layout=compact&theme=tokyonight&hide_border=true&bg_color=30,0d0d10,12143a&title_color=aab8ff&text_color=e6e8ff&card_width=320" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=SuyogJamdar&theme=tokyonight&hide_border=true&background=30,0d0d10,12143a&ring=2fd8b0&fire=7b88ff&currStreakLabel=2fd8b0&sideLabels=e6e8ff&dates=a6a9bd" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=SuyogJamdar&theme=tokyonight&hide_border=true&background=30,0d0d10,12143a&ring=82d9c7&fire=aab8ff&currStreakLabel=82d9c7&sideLabels=e6e8ff&dates=a6a9bd" alt="GitHub streak" />
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/2fd8b0/SuyogJamdar" width="90%" alt="Contribution calendar" />
+<img src="https://ghchart.rshah.org/82d9c7/SuyogJamdar" width="90%" alt="Contribution calendar" />
 
 </div>
 
@@ -106,9 +106,9 @@ Know of an opportunity that matches my skill set? I'd love to hear from you!
 
 <div align="center">
 
-[![Email me](https://img.shields.io/badge/📧_Email_me-7b88ff?style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=jamdar.suyog@gmail.com&su=Opportunity%20for%20Suyog%20Jamdar)
-[![Connect on LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-2fd8b0?style=for-the-badge)](https://www.linkedin.com/in/suyog-jamdar)
+[![Email me](https://img.shields.io/badge/📧_Email_me-aab8ff?style=flat-square)](https://mail.google.com/mail/?view=cm&fs=1&to=jamdar.suyog@gmail.com&su=Opportunity%20for%20Suyog%20Jamdar)
+[![Connect on LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-82d9c7?style=flat-square)](https://www.linkedin.com/in/suyog-jamdar)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22262c,100:4a4f57&height=100&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,100:29345a&height=70&section=footer" width="100%" alt="footer"/>
 
 </div>
